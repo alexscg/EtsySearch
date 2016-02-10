@@ -1,0 +1,25 @@
+a.well {
+	display: block;
+	max-height: 340px;
+	padding: 10px;
+}
+a.well .panel {
+	margin-bottom: 10px;
+}
+a.well .title {
+	font-size: 11px;
+	padding: 5px;
+}
+
+a.well .desc {
+	font-size: 11px;
+    margin-bottom: 0px;
+    max-height: 122px;
+    overflow: hidden;
+	padding: 5px;
+}
+
+a.well .price {
+	float: right;
+	padding: 5px;
+}

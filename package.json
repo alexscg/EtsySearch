@@ -1,0 +1,32 @@
+{
+  "name": "etsysearch",
+  "version": "1.0.0",
+  "description": "using etsy api",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.12.0",
+    "grunt-contrib-watch": "^0.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexscg/EtsySearch.git"
+  },
+  "keywords": [
+    "etsy",
+    "api",
+    "search"
+  ],
+  "author": "Alex Shapiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexscg/EtsySearch/issues"
+  },
+  "homepage": "https://github.com/alexscg/EtsySearch#readme"
+}
