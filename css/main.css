@@ -1,3 +1,7 @@
+html {
+	height: 101%;
+}
+
 a.well {
 	display: block;
 	max-height: 340px;
@@ -10,7 +14,6 @@ a.well .title {
 	font-size: 11px;
 	padding: 5px;
 }
-
 a.well .desc {
 	font-size: 11px;
     margin-bottom: 0px;
@@ -18,8 +21,14 @@ a.well .desc {
     overflow: hidden;
 	padding: 5px;
 }
-
 a.well .price {
 	float: right;
 	padding: 5px;
+}
+
+#etsy-status  {
+	margin: 0 0 10px 0;
+}
+#etsy-status > span {
+	color: #0087FF;
 }
