@@ -32,3 +32,18 @@ a.well .price {
 #etsy-status > span {
 	color: #0087FF;
 }
+#etsy-logo {
+    background: url(https://www.etsy.com/assets/dist/images/etsylogo.20160125205620.png) 0 0 no-repeat;
+    width: 75px;
+    height: 36px;
+    float: right;
+    margin-right: 47px;
+}
+#etsy-logo:after {
+    content: 'FIND';
+    font-size: 14px;
+    position: absolute;
+    bottom: -4px;
+    right: 35px;
+    font-weight: 600;
+}
